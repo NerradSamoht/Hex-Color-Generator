@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+body {
+  transition: all 0.5s ease;
+  display: flex;
+  text-align: center;
+  background-color: rebeccapurple;
+  color: #fff;
+}
+[id="hex"] {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  font-size: 2em;
+}
